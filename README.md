@@ -33,12 +33,12 @@ _Devin Dinapoli, Abby Olaleye, Jeffrey Easley, Andrew Knowles_
 
 ### Presentation Requirement: 
 * Formal 10 minute presentation, explaining in detail:
-    _* The application's concept_
-    _* The motivation for its development_
-    _* The design process_
-    _* The technologies used (and how they work)_
-    _* A demonstration of its functionality_
-    _* Directions for future development_
+    * _The application's concept_
+    * _The motivation for its development_
+    * _The design process_
+    * _The technologies used (and how they work)_
+    * _A demonstration of its functionality_
+    * _Directions for future development_
 
 ### Grading Metrics: 
 * Concept
