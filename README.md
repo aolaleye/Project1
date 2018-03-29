@@ -1,5 +1,4 @@
-# What's for Dinner? 
-# [Project 1]
+# Project 1: What's for Dinner?
 
 ### Contributors: 
 _Devin Dinapoli, Abby Olaleye, Jeffrey Easley, Andrew Knowles_
