@@ -1,5 +1,7 @@
 # What's for Dinner?
 
+__This app uses the Yummly API to search Yummly's recipe database and allows users to search and save dishes based on specified parameters.__
+
 #### Contributors: 
 _Devin Dinapoli, Abby Olaleye, Andrew Knowles, Jeffrey Easley_
 
