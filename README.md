@@ -16,7 +16,7 @@ _Devin Dinapoli, Abby Olaleye, Andrew Knowles, Jeffrey Easley_
 #### Database:
 * Firebase is used to store user searches and favorites.
 
-#### Our app utlizes: 
+#### Our app utilizes: 
 * Two apis
 * Ajax to pull data
 * Materialize as the CSS framework and for mobile responsiveness
